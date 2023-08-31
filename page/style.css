@@ -1,0 +1,39 @@
+body{
+    font-family: serif;
+}
+.container{
+    display: block;
+   
+}
+img{
+    margin-top: 8%;
+    width: 15%;
+}
+#cen{
+    display: block;
+    text-align: center;
+}
+#center{
+    margin-top: 20px;
+    display: block;
+    text-align: center;
+    padding: 5px;
+    
+}
+input {
+    width: 60%;
+    height: 35px;
+    border-radius: 35px;
+    margin-bottom: 10px;
+    font-size: xx-large;
+    text-align: start;
+    padding-left: 10px;
+}
+button{
+width: 15%;
+height: 35px;
+border-radius: 10px;
+margin-top: 20px;
+margin-right: 15px;
+font-size: larger;
+}
